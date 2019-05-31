@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 Ricardo Ezequiel Linares Galvan Araujo - 192.168.2.135 - 9:46
+=======
+Franco Nahuel Amarilla Godoy  192.168.2.199   9:58 
+
+Respuestas:
+1) Añadis el repositorio remoto y despues pull
+2) Añadis el repositorio remoto de gamma y despues pull
+3) Añadir el repositorio remoto de alfa y despues pull
+4) Tenes que administrar si queres hacer un merge o te quedas con la nueva 
+informacion o la vieja 
+>>>>>>> 1e512d82090b1ae9360b21ec124479800ae22232
